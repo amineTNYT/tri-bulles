@@ -30,13 +30,14 @@ def tribuile(n):
 
 # programme principal
 n = saisir()
-t = array([int] * n) 
+t = array([int] * n) #tableau t est de type entier 
 t = remplir(n)
 print('tableau finale: avant le tri')
 affiche(t, n)
 t = tribuile(n) 
 print('tableau finale: après le tri')
 affiche(t, n)
+
 
 
 
