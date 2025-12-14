@@ -4,6 +4,8 @@
 # tri_bulle boucle tanque
 
 
+
+
 Procédure Tribulles (@ T :Tab ; n :entier)
 Début
 permut<---vrai
