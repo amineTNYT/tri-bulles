@@ -8,17 +8,43 @@
 
 Procédure Tribulles (@ T :Tab ; n :entier)
 Début
+
+
 permut<---vrai
+
+
 Tant que( permut=Vrai) faire
+
+
     permutFaux
+
+    
     Pour i de 0 à n-2 faire
+
+    
           Si (T[i]>T[i+1]) alors
+
+          
           aux<---T[i+1]
+
+          
           T[i+1]<---T[i]
+
+          
           T[i]<---aux
+
+          
           permut<---vrai
+
+          
           FinSi
+
+          
     FinPour
+
+    
     n<---n-1
+
+    
 Fin tant que
 Fin
