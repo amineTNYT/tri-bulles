@@ -1,6 +1,6 @@
 # Tri à Bulles - Ressources Éducatives Complètes
 
-Le tri à bulles (Bubble Sort) est un algorithme fondamental que les élèves en informatique et sciences doivent maîtriser dès la 3ᵉ et 4ᵉ année. Cette méthode de tri, bien que simple, enseigne des concepts essentiels comme la comparaison d'éléments adjacents, les échanges successifs, et l'optimisation grâce aux indicateurs booléens.
+Le tri à bulles (Bubble Sort) est un algorithme fondamental que les élèves en informatique et sciences doivent maîtriser dès la 3ᵉ et 4ᵉ année. Cette méthode de tri
 
 ## 📊 Ressources Complètes
 
@@ -16,7 +16,7 @@ Pour étudier et maîtriser le tri à bulles, voici les 3 fichiers essentiels :
 
 ### 1. Pour comprendre l'algorithme
 - Commencez par lire **`algorithme tri à bulles.md`** pour comprendre la logique
-- Étudiez le pseudo-code et la table TDOL (Table de Déclaration des Objets Locaux)
+- Étudiez l'algorithme 
 
 ### 2. Pour voir l'algorithme en action
 - Ouvrez **`tri bulle.html`** dans votre navigateur web
@@ -37,7 +37,6 @@ L'animation HTML offre une expérience d'apprentissage unique :
 - **Contrôle de vitesse** : 3 niveaux (Lent ×1, Normal ×2, Rapide ×4)
 - **Explications détaillées** : Description textuelle de chaque étape
 - **Statistiques en direct** : Nombre de passages, comparaisons, échanges
-- **Variables TDOL** : Suivi de `permut` (Faux/Vrai) pendant l'exécution
 - **Exemples variés** : Tableau simple [5, 3, 8, 1, 4] ou tableaux aléatoires
 
 ## 🎯 Objectifs pédagogiques
@@ -49,14 +48,6 @@ L'animation HTML offre une expérience d'apprentissage unique :
 - Utiliser un indicateur booléen pour optimiser l'algorithme
 - Visualiser le déplacement des éléments "comme des bulles" qui remontent
 
-## 📝 Pour les enseignants
-
-Ces ressources sont parfaites pour :
-- Les cours d'algorithmique en lycée
-- Les travaux pratiques en informatique
-- Les démonstrations en classe
-- Les exercices de programmation
-- Les révisions pour examens
 
 > **Astuce** : Ouvrez `tri bulle.html` dans votre navigateur et projetez-le en classe pour une démonstration interactive captivante !
 
