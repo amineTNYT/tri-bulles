@@ -18,7 +18,7 @@ Début
 Fin
 ```
 ```
-  ###    TDOL
+      TDOL
 Objet    | Type / Nature
 -----------------------
 i        | Entier
@@ -53,8 +53,7 @@ Fin
 ```
 
 ```
-#      TDOL
-
+        TDOL
 Objets     | Type / Nature
 -------------------------
 permut     | Booléen
