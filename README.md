@@ -10,7 +10,7 @@ Pour étudier et maîtriser le tri à bulles, voici les 3 fichiers essentiels :
 
 - **[`tri-bulle en python.py`](tri-bulle%20en%20python.py)** → Code Python complet et commenté de l'algorithme de tri à bulles avec exemple d'utilisation
 - **[`algorithme tri à bulles.md`](algorithme%20tri%20%C3%A0%20bulles.md)** → Algorithme détaillé de tri bulle 
-- **[`tri bulle.html`](tri%20bulle.html)** → Animation interactive pédagogique avec contrôle de vitesse et visualisation en temps réel
+- **[`tri bulle.html`](tri%20bulle.html)** → Animation interactive  avec  visualisation en temps réel
 
 ## 🚀 Comment utiliser ces ressources ?
 
