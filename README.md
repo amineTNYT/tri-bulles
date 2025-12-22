@@ -21,7 +21,6 @@ Pour étudier et maîtriser le tri à bulles, voici les 3 fichiers essentiels :
 ### 2. Pour voir l'algorithme en action
 - Ouvrez **`tri bulle.html`** dans votre navigateur web
 - Cliquez sur **"Démarrer l'Animation"** pour voir le tri étape par étape
-- Utilisez le bouton **"Vitesse"** pour ralentir ou accélérer l'animation
 - Regénérez des exemples avec **"Générer Nouvel Exemple"**
 
 ### 3. Pour programmer vous-même
@@ -29,15 +28,6 @@ Pour étudier et maîtriser le tri à bulles, voici les 3 fichiers essentiels :
 - Exécutez le code pour voir le tri fonctionner
 - Modifiez les valeurs du tableau pour tester différents cas
 
-## ✨ Fonctionnalités de l'animation interactive
-
-L'animation HTML offre une expérience d'apprentissage unique :
-
-- **Visualisation en temps réel** : Voir les éléments comparés (orange) et échangés (rouge/vert)
-- **Contrôle de vitesse** : 3 niveaux (Lent ×1, Normal ×2, Rapide ×4)
-- **Explications détaillées** : Description textuelle de chaque étape
-- **Statistiques en direct** : Nombre de passages, comparaisons, échanges
-- **Exemples variés** : Tableau simple [5, 3, 8, 1, 4] ou tableaux aléatoires
 
 ## 🎯 Objectifs pédagogiques
 
@@ -46,7 +36,6 @@ L'animation HTML offre une expérience d'apprentissage unique :
 - Implémenter l'algorithme en Python avec une boucle `while` optimisée
 - Analyser la complexité temporelle (O(n²) dans le pire cas)
 - Utiliser un indicateur booléen pour optimiser l'algorithme
-- Visualiser le déplacement des éléments "comme des bulles" qui remontent
 
 
 > **Astuce** : Ouvrez `tri bulle.html` dans votre navigateur et projetez-le en classe pour une démonstration interactive captivante !
