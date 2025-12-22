@@ -1,6 +1,6 @@
 # Tri à Bulles - Ressources Éducatives Complètes
 
-Le tri à bulles (Bubble Sort) est un algorithme fondamental que les élèves en informatique et sciences doivent maîtriser dès la 3ᵉ et 4ᵉ année. Cette méthode de tri
+Le tri à bulles (Bubble Sort) est un algorithme fondamental que les élèves en informatique et sciences doivent maîtriser dès la 3ᵉ et 4ᵉ année. 
 
 ## 📊 Ressources Complètes
 
