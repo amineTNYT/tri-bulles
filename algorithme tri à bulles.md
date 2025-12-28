@@ -13,6 +13,7 @@ Début
                 T[i + 1] ← Aux
                 permut ← Vrai
             Fin si
+        n=n-1     # on exclu le dernier element
         Fin Pour
     Jusqu’à (permut = Faux)
 Fin
